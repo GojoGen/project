@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+    border: solid;
+    border-color: black;
+}
+.university1 {
+    position: absolute;left: 50px;
+    float: left;
+}
+.Home{
+    font-size: 2rem;
+    color: black;
+}
+.Annotation {
+    border: solid;
+    border-radius: 5px;
+    width: 700px;
+    border-color: black;
+
+}
+.pdf{
+    background-color: white;
+    border: solid;
+    border-color: black;
+    width: 700px;
+}
